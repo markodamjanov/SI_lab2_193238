@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-16T10:21:32" hostname="DESKTOP-QVT84C7" time="0.023">
+  <properties/>
+  <testcase name="multipleCondition()" classname="SILab2Test" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
