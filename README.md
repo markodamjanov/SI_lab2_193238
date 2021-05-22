@@ -30,8 +30,8 @@
 46-48  
 48-49  
 
-       @Test  
-       void everyBranch() {
+    @Test  
+    void everyBranch() {
         RuntimeException ex;
 
         ex = assertThrows(RuntimeException.class, () -> SILab2.function(createList(new Time(-2,30,50))));
@@ -59,8 +59,8 @@
   
 ### Тест случаи според критериумот Multiple Condition  
   
-       @Test  
-       void multipleCondition(){
+    @Test  
+    void multipleCondition(){
         RuntimeException ex;
 
         //if (hr < 0 || hr > 24) { //33
